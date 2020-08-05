@@ -2,7 +2,7 @@
 
 - :surfer: [Surfing photography](https://surfer.epidro.me/): Locals only 😄
 - :mortar_board: [Scholar publications](https://scholar.epidro.me) about obscure topics
-- [An impossible rant on wave and hypermedia surfing](https://me.epidro.me)
+- [An impossible rant on hypermedia and wave surfing](https://me.epidro.me)
 - 🔭 I’m currently working on [making interactivity book](https://mibook.epidro.me)
 - 🌱 I’m currently (re)learning to [do it with the keyboard](https://github.com/courses-ionio/dokey)
 - 📫 How to reach me: [Open an issue here](https://github.com/epidrome/epidrome/issues/new/choose), or, preferably, mention me at the Github repository of your interest
