@@ -5,7 +5,7 @@
 - :pencil: [An impossible rant on hypermedia and wave surfing](https://me.epidro.me)
 - 🔭 I’m currently working on [making interactivity book](https://mibook.epidro.me)
 - 🌱 I’m currently (re)learning to [do it with the keyboard](https://github.com/courses-ionio/dokey)
-- 📫 How to reach me: [Open an issue here](https://github.com/epidrome/epidrome/issues/new/choose), or, preferably, mention me at the Github repository of your interest
+- 📫 How to reach me: mention me at the Github repository of your interest
 
 <!--
 **epidrome/epidrome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
